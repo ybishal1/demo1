@@ -5,6 +5,7 @@ public class Hello {
 	public static void main(String[] args) {
 		
 		System.out.println("My name is Bishal");
+		System.out.println("Hello Cetroid people");
 	}
 
 }
